@@ -1,5 +1,5 @@
-1. red
-2. blue
-3. yellow
-4. magenta
-5. beige
+1. qwer-red
+2. asdf-blue
+3. zxcv-yellow
+4. qwer-magenta
+5. asdf-beige
