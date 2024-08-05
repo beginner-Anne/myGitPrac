@@ -1,5 +1,5 @@
-1. red
-2. blue
-3. yellow
-4. magenta
-5. beige
+1. Rose-red
+2. sky blue
+3. green
+4. blue
+5. black
